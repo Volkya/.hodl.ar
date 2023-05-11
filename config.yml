@@ -11,7 +11,7 @@ html:
 # Colores de plantilla
 theme:
   background_color: "#f9fafb"
-  # cover_color: "#ff7070"
+  cover_color: "#ff7070"
 
 # Configuración Central
 main:
@@ -26,25 +26,25 @@ blocks:
     icon: instagram
     url: https://www.instagram.com/volkeatworld/
 
-# - title: Twitter
-#   icon: twitter
-#   url: https://twitter.com/volkeatworld
+ - title: Twitter
+   icon: twitter
+   url: https://twitter.com/volkeatworld
     
-# - title: LinkedIn # Este es el nombre del botón
-#   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+ - title: LinkedIn # Este es el nombre del botón
+   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
+   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
 
-# - title: Github
-#   icon: github
-#   url: https://github.com/volkya
+ - title: Github
+   icon: github
+   url: https://github.com/volkya
 
 # - title: Sitio Web
 #   icon: url
 #   url: https://www.TU-WEB.com
 
-# - title: Telegram
-#   icon: telegram
-#   url: https://t.me/volkeatworld
+ - title: Telegram
+   icon: telegram
+   url: https://t.me/volkeatworld
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones
